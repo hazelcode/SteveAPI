@@ -5,6 +5,7 @@
 execute if score @s muertesAPI matches 26.. run gamemode spectator @s
 execute if score @s muertesAPI matches 26.. run gamemode spectator @s[gamemode=survival]
 execute if score @s muertesAPI matches 26.. run gamemode spectator @s[gamemode=creative]
+execute if score @s muertesAPI matches 26.. run gamemode spectator @s[gamemode=adventure]
 execute if score @s muertesAPI matches 26.. run gamemode spectator @s[scores={muertesAPI=26..}]
 
 ## PELIGROSO
