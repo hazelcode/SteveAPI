@@ -5,6 +5,7 @@
         "icon": {
             "item": "minecraft:player_head"
         },
+        "background": "minecraft:lime_concrete",
         "show_toast": false,
         "announce_to_chat": false
     },
