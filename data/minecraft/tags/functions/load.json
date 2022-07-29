@@ -1,5 +1,6 @@
 {
+	"replace": false,
     "values": [
-        "steveapi:load"
+        "parchment:schedule_detection"
     ]
 }
