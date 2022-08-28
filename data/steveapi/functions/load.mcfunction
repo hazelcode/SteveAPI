@@ -3,7 +3,8 @@
 ## SCOREBOARDS ##
 scoreboard objectives add steve.muertes deathCount {"text":"[STEVE API] Muertes","color":"red"}
 scoreboard objectives add steve.pkc playerKillCount
-scoreboard objectives add settings dummy
+scoreboard objectives add steve.settings dummy
+scoreboard objectives add steve.eq.lthbts dummy
 
 ## TRIGGERS ##
 scoreboard objectives add steve.lang trigger
