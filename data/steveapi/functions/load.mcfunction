@@ -9,11 +9,5 @@ scoreboard objectives add steve.Pos0 dummy
 scoreboard objectives add steve.Pos1 dummy
 scoreboard objectives add steve.Pos2 dummy
 
-## TRIGGERS ##
-scoreboard objectives add steve.lang trigger
-scoreboard players enable @a steve.lang
-scoreboard objectives add steve.opTest trigger
-scoreboard players enable @a steve.opTest
-
 ## MODDING ##
 function #steveapi:modding/load/namespaces

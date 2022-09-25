@@ -1,1 +1,0 @@
-scoreboard objectives add steve.lang trigger {"text":"Datapacks language settings","color":"aqua"}
