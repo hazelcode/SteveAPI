@@ -5,6 +5,9 @@ scoreboard objectives add steve.muertes deathCount {"text":"[STEVE API] Muertes"
 scoreboard objectives add steve.pkc playerKillCount
 scoreboard objectives add steve.settings dummy
 scoreboard objectives add steve.eq.lthbts dummy
+scoreboard objectives add steve.Pos0 dummy
+scoreboard objectives add steve.Pos1 dummy
+scoreboard objectives add steve.Pos2 dummy
 
 ## TRIGGERS ##
 scoreboard objectives add steve.lang trigger
