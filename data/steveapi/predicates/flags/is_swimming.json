@@ -4,7 +4,7 @@
   "predicate": {
     "type": "minecraft:player",
     "flags": {
-      "is_sneaking": false
+      "is_swimming": true
     }
   }
 }
