@@ -7,6 +7,7 @@ scoreboard objectives add steve.Pos0 dummy
 scoreboard objectives add steve.Pos1 dummy
 scoreboard objectives add steve.Pos2 dummy
 scoreboard objectives add steve.jump custom:jump
+scoreboard objectives add steve.health health
 
 ## MODDING ##
 function #steveapi:modding/load/namespaces
